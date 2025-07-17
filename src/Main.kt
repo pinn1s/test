@@ -7,7 +7,7 @@ import javax.swing.JPanel
 
 fun main() {
     // Load the custom font from your project folder
-    val fontFile = File("rsc/font/Manrope.ttf")
+    val fontFile = File("Manrope.ttf")
     val baseFont = Font.createFont(Font.TRUETYPE_FONT, fontFile).deriveFont(16f) // 16pt font size
 
     // create window
