@@ -11,7 +11,7 @@ fun main() {
     val baseFont = Font.createFont(Font.TRUETYPE_FONT, fontFile).deriveFont(16f) // 16pt font size
 
     // create window
-    val frame = JFrame("My First Kotlin GUI")
+    val frame = JFrame("free robux test :P")
     frame.setSize(300, 200)
     frame.defaultCloseOperation = JFrame.EXIT_ON_CLOSE
 
